@@ -1,5 +1,13 @@
-## Hi there 👋
+👋 Hi, I’m Youssef Ghozzi
+🎓 I’m currently a 2nd-year engineering student in Telecommunications at ENETCOM.
 
+🔐 I’m currently focused on the DevSecOps domain, combining deployment practices with integrated security testing.
+
+🤖 I’m passionate about AI, software development, and networking.
+
+💡 I enjoy building intelligent, secure, and scalable systems that solve real-world problems.
+
+🌍 Always eager to learn and collaborate on innovative tech projects.
 <!--
 **YoussefGhozzi/youssefghozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
