@@ -1,5 +1,5 @@
 👋 Hi, I’m Youssef Ghozzi
-🎓 I’m currently a 2nd-year engineering student in Telecommunications at ENETCOM.
+🎓 I’m currently in my final-year engineering student in Telecommunications at ENETCOM.
 
 🔐 I’m currently focused on the DevSecOps domain, combining deployment practices with integrated security testing.
 
