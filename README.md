@@ -1,24 +1,12 @@
-👋 Hi, I’m Youssef Ghozzi
-🎓 I’m currently in my final-year engineering student in Telecommunications at ENETCOM.
+👋 Hi, I'm Youssef Ghozzi, an AI Engineer & Full-Stack Developer passionate about turning complex AI models into reliable, production-grade applications.
 
-🔐 I’m currently focused on the DevSecOps domain, combining deployment practices with integrated security testing.
+What I bring to the table: 
+✔️ Agentic AI & RAG: LangGraph orchestration, Graph RAG, versioned prompt engineering, and LLM tracing (Langfuse/MLflow). 
+✔️ Voice & Audio AI: End-to-end speech processing (Whisper fine-tuning, Silero VAD, DeepFilterNet, Wav2Vec2). 
+✔️ Full-Stack Mastery: NestJS, Django, Python, TypeScript, React, Angular, Docker & CI/CD.
 
-🤖 I’m passionate about AI, software development, and networking.
+🔗 Interactive Portfolio: https://youssef-ghozzi-portfolio.vercel.app/
 
-💡 I enjoy building intelligent, secure, and scalable systems that solve real-world problems.
+💼 Open for AI Engineer / Full-Stack opportunities (Available for relocation). 
 
-🌍 Always eager to learn and collaborate on innovative tech projects.
-<!--
-**YoussefGhozzi/youssefghozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✉️ Email: youssefghozzi993@gmail.com
